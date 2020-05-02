@@ -8,7 +8,7 @@
 ![general flow](https://s3.amazonaws.com/wildrydes-yash-chakka/General_Flow.png)
 
 # Video Output
-![alt output](https://s3.amazonaws.com/tests-road-damage/Pothole.mp4)
+![Output](https://tests-road-damage.s3.amazonaws.com/ezgif.com-optimize.gif)
 
 # Pothole-deployments
 Deployment environment for pothole detection system
