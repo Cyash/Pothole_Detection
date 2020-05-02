@@ -1,0 +1,5 @@
+{"input":
+   {"s3_source_filename" : "/sagemaker/small_pot.mp4",
+   "s3_bucket" : "tests-road-damange",
+   "is_live": false}
+}
