@@ -8,7 +8,7 @@
 ![general flow](https://s3.amazonaws.com/wildrydes-yash-chakka/General_Flow.png)
 
 # Video Output
-![Output](https://tests-road-damage.s3.amazonaws.com/ezgif.com-optimize.gif)
+https://github.com/Cyash/Pothole_Detection/assets/23339145/9f7cad38-3a7a-49a9-a078-970f8081f6ab
 
 # Pothole-deployments
 Deployment environment for pothole detection system
